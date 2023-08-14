@@ -1,0 +1,52 @@
+
+h1{
+    text-align: center;
+    color:#030303
+
+}
+.crear{
+    background: rgb(192, 192, 192);
+    border-radius: 5px;
+    margin-bottom: 10px;
+    height: 30px;
+   font-size: medium;;
+  
+   
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.cabecera{
+    background: rgb(192, 192, 192);
+}
+
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: separate;
+    width: 100%;
+   
+  }
+  
+  td, th {
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 8px;
+     border: 2px solid rgb(12, 12, 12);
+     background-color: rgb(192, 192, 192);
+     
+  }
+  
+  tr:nth-child(even) {
+    background-color: #bbbaba;
+  }
+  .fle{
+    width: 25px;
+    height: 25px;
+    
+  }
+  body{
+    background-image: url(img/verde.jpg);
+ 
+  }
